@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1675947547 source:e:\sdl2_learning\ex1_sdl\game\learninggame\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1675946853 e:\sdl2_learning\ex1_sdl\game\learninggame\renderwindow.hpp
+	<SDL.h>
+	"Entity.hpp"
+
+1675935148 source:e:\sdl2_learning\ex1_sdl\game\learninggame\renderwindow.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1675947571 source:e:\sdl2_learning\ex1_sdl\game\learninggame\entity.cpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+
+1675947549 e:\sdl2_learning\ex1_sdl\game\learninggame\entity.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Math.hpp"
+
+1675777128 source:e:\sdl2_learning\ex1_sdl\game\learninggame\math.cpp
+
+1675781116 e:\sdl2_learning\ex1_sdl\game\learninggame\math.hpp
+	<iostream>
+
+1675933826 source:e:\sdl2_learning\ex1_sdl\game\learninggame\character.cpp
+
+1675867205 e:\sdl2_learning\ex1_sdl\game\learninggame\character.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Math.hpp"
+
+1676986046 source:e:\sdl2_learning\game\learninggame\character.cpp
+	"Character.hpp"
+	"amoObj.hpp"
+	"RenderWindow.hpp"
+	"Commonfunc.hpp"
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+
+1676771046 source:e:\sdl2_learning\game\learninggame\entity.cpp
+	"Entity.hpp"
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+
+1676873619 e:\sdl2_learning\game\learninggame\entity.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Math.hpp"
+
+1675898510 e:\sdl2_learning\game\learninggame\math.hpp
+	<iostream>
+
+1676771362 e:\sdl2_learning\game\learninggame\renderwindow.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Entity.hpp"
+
+1676985736 source:e:\sdl2_learning\game\learninggame\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Entity.hpp"
+	"Math.hpp"
+	"amoObj.hpp"
+	"Character.hpp"
+	"RenderWindow.hpp"
+
+1675898510 source:e:\sdl2_learning\game\learninggame\math.cpp
+
+1676769362 source:e:\sdl2_learning\game\learninggame\renderwindow.cpp
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1676881218 e:\sdl2_learning\game\learninggame\character.hpp
+	<vector>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"amoObj.hpp"
+	"Entity.hpp"
+	"Math.hpp"
+
+1676877111 source:e:\sdl2_learning\game\learninggame\amoobj.cpp
+	"amoObj.hpp"
+
+1676878603 e:\sdl2_learning\game\learninggame\amoobj.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	"Entity.hpp"
+
+1676727410 e:\sdl2_learning\game\learninggame\commonfunc.hpp
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+
+1676877111 source:d:\testdemo\game\learninggame\amoobj.cpp
+	"amoObj.hpp"
+
+1676878603 d:\testdemo\game\learninggame\amoobj.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	"Entity.hpp"
+
+1676873619 d:\testdemo\game\learninggame\entity.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Math.hpp"
+
+1677296044 d:\testdemo\game\learninggame\renderwindow.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Entity.hpp"
+
+1675898510 d:\testdemo\game\learninggame\math.hpp
+	<iostream>
+
+1677031000 source:d:\testdemo\game\learninggame\character.cpp
+	"Character.hpp"
+	"amoObj.hpp"
+	"RenderWindow.hpp"
+	"Commonfunc.hpp"
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+
+1676881218 d:\testdemo\game\learninggame\character.hpp
+	<vector>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"amoObj.hpp"
+	"Entity.hpp"
+	"Math.hpp"
+
+1676727410 d:\testdemo\game\learninggame\commonfunc.hpp
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+
+1676771046 source:d:\testdemo\game\learninggame\entity.cpp
+	"Entity.hpp"
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+
+1677128588 source:d:\testdemo\game\learninggame\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	"Entity.hpp"
+	"Math.hpp"
+	"amoObj.hpp"
+	"Character.hpp"
+	"RenderWindow.hpp"
+
+1675898510 source:d:\testdemo\game\learninggame\math.cpp
+
+1676769362 source:d:\testdemo\game\learninggame\renderwindow.cpp
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1677129966 source:d:\testdemo\game\learninggame\game_map.cpp
+	"game_map.hpp"
+	"Entity.hpp"
+
+1677128608 d:\testdemo\game\learninggame\game_map.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	"Entity.hpp"
+
