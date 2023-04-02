@@ -6,7 +6,7 @@ pipes and the background as well. I also added some sound effects by using SDL_m
 How to play:
   - you can click your mouse or press SPACE key on the keyboard to start the Game, and also use it to help
   your Bird can jump a short distance verlically so as to not collide the barriers(the pipes). Each pipe that you pass will help your score
-increase by 1. Try you best to score the highest mark in the Game.
+increase by 1. Try you best to score the highest point in the Game.
 
 Knowledge that i did use in this project:
 - install and set up the SDL2.0 library to assist me with making games.
