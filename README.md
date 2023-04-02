@@ -1,8 +1,7 @@
 # demoGit
 Le Hien 22028101
 This is a game which is made by using C++ and library SDL 2.0
-This game is all about a bird have to fly in order to avoid a lot of pipes on its way. This is a clone of Flappy Bird origin, but i did redesign the bird,
-pipes and the background as well. I also added some sound effects by using SDL_mixer library.
+This game is all about a bird have to fly in order to avoid a lot of pipes on its way. This game is inspired by the Flappy Bird origin. I also added some sound effects by using SDL_mixer library.
 How to play:
   - you can click your mouse or press SPACE key on the keyboard to start the Game, and also use it to help
   your Bird can jump a short distance verlically so as to not collide the barriers(the pipes). Each pipe that you pass will help your score
