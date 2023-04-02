@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1680404697 source:e:\flappybird-main\flybird\src\bird.cpp
+	"Bird.h"
+
+1680410379 e:\flappybird-main\flybird\src\bird.h
+	<SDL.h>
+	<iostream>
+	"Barriers.h"
+	"definitions.h"
+
+1679533011 e:\flappybird-main\flybird\src\pipe.h
+	<SDL.h>
+	"defs.h"
+
+1679534036 e:\flappybird-main\flybird\src\defs.h
+
+1680423002 source:e:\flappybird-main\flybird\src\game.cpp
+	"Game.h"
+
+1680423106 e:\flappybird-main\flybird\src\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<list>
+	<chrono>
+	<random>
+	<time.h>
+	<string>
+	"Bird.h"
+	"Barriers.h"
+	"definitions.h"
+
+1679811172 source:e:\flappybird-main\flybird\src\main.cpp
+	"Game.h"
+	"definitions.h"
+
+1680423002 e:\flappybird-main\flybird\src\barriers.h
+	<SDL.h>
+	"definitions.h"
+
+1680422607 e:\flappybird-main\flybird\src\definitions.h
+
+1680427983 source:d:\flybird\bird.cpp
+	"Bird.h"
+
+1680427822 d:\flybird\bird.h
+	<SDL.h>
+	<iostream>
+	"Barriers.h"
+	"definitions.h"
+
+1680428064 d:\flybird\barriers.h
+	<SDL.h>
+	"definitions.h"
+
+1680428157 d:\flybird\definitions.h
+
+1679811172 source:d:\flybird\main.cpp
+	"Game.h"
+	"definitions.h"
+
+1680428277 d:\flybird\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<list>
+	<chrono>
+	<random>
+	<time.h>
+	<string>
+	"Bird.h"
+	"Barriers.h"
+	"definitions.h"
+
+1680428421 source:d:\flybird\game.cpp
+	"Game.h"
+
