@@ -4,7 +4,7 @@ This is a game which is made by using C++ and library SDL 2.0
 This game is all about a bird have to fly in order to avoid a lot of pipes on its way. This game is inspired by the Flappy Bird origin. I also added some sound effects by using SDL_mixer library.
 How to play:
   - you can click your mouse or press SPACE key on the keyboard to start the Game, and also use it to help
-  your Bird can jump a short distance verlically so as to not collide the barriers(the pipes). Each pipe that you pass will help your score
+  your Bird can jump a short distance verlically so as not to collide the barriers(the pipes). Each pipe that you pass will help your score
 increase by 1. Try you best to score the highest point in the Game.
 
 Knowledge that i did use in this project:
