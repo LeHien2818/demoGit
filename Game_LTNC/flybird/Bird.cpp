@@ -44,21 +44,20 @@ void Bird::update(bool jump, float Timegone)
 
 bool Bird::collisionChecking(Barrier *pipe)
 {
-    // pipe
+    // pipe checking collide
     if(pipe->topDST.x <= pos.x + pos.w && pipe->topDST.x + BARRIER_WIDTH >= pos.x + pos.w)
         if(pos.y < pipe->topDST.y + pipe->topDST.h || pos.y + pos.h > pipe->bottomDST.y)
         {
             return true;
             die_sound = true;
         }
-    // ground
+    // ground below
     if(pos.y + pos.h > HEIGHT - GROUND_HEIGHT)
     {
         return true;
         die_sound = true;
     }
-
-    // ceiling
+    // ground above
     if(pos.y < 0)
     {
         return true;
