@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     SDL_Init(SDL_INIT_EVERYTHING);
 
-    Game game("Flappy bird", WIDTH, HEIGHT);
+    Game game("Flying bird", WIDTH, HEIGHT);
 
     game.Start();
 
